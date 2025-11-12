@@ -2,7 +2,7 @@
 A fish finding device using ultrasonic sensor to detect fishes and LoRa to transmit data over long distances.
 
 # App Interfacing
-It connects to the [Alon app](https://github.com/marukoy-bot/Alon) via USB OTG. 
+It connects to the [Alon Android app](https://github.com/marukoy-bot/Alon) via USB OTG. 
 
 # Components
 | TX | RX |
